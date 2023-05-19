@@ -1,5 +1,5 @@
 """
-@File: DSCGAm5C.py
+@File: im5C-DSCGA.py
 @Time: 2023/4/22 11:31
 @Author:lulu9825@163.com
 @desc:
